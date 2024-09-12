@@ -16,7 +16,6 @@
             <th @click="calculate">8</th>
             <th @click="calculate">9</th>
             <th class="operation" @click="calculate">*</th>
-<h1>3</h1>
           </tr>
           <tr>
             <th @click="calculate">4</th>
